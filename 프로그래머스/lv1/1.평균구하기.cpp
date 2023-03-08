@@ -13,9 +13,6 @@ double solution(vector<int> arr) {
 
 
     }
-    return answer;
-
-
-
+    return answer / arr.size();
 
 }
